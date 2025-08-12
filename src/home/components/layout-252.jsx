@@ -78,7 +78,7 @@ export function Layout252() {
           <div className="w-full">
             <div className="mb-6 md:mb-8">
               <img
-                src="/images/makeup.jpeg"
+                src="/images/makeup1.jpeg"
                 alt="Creative influencer in purple neon lighting environment"
                 className="rounded-image"
               />
