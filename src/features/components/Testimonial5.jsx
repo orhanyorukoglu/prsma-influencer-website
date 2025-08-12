@@ -12,7 +12,7 @@ export function Testimonial5() {
             Customer Testimonials
           </h1>
           <p className="text-medium">
-            This tool transformed my engagement strategy completely!
+            This tool transformed my engagement strategy completely! I used to spent 4 hours trying to engage by responding to comments and messages, now I can do it in 30 minutes.
           </p>
         </div>
         <div className="grid grid-cols-1 gap-y-12 md:grid-cols-2 md:gap-x-8 lg:gap-16">
@@ -41,13 +41,7 @@ export function Testimonial5() {
                 <p>Influencer, Lifestyle Brand</p>
               </div>
               <div className="hidden w-px self-stretch bg-scheme-border md:block" />
-              <div>
-                <img
-                  src="https://d22po4pjz3o32e.cloudfront.net/webflow-logo.svg"
-                  alt="Webflow logo 1"
-                  className="max-h-12"
-                />
-              </div>
+             
             </div>
           </div>
           <div className="flex h-full max-w-lg flex-col items-start justify-start text-left">
@@ -74,13 +68,7 @@ export function Testimonial5() {
                 <p>Marketer, Tech Firm</p>
               </div>
               <div className="hidden w-px self-stretch bg-scheme-border md:block" />
-              <div>
-                <img
-                  src="https://d22po4pjz3o32e.cloudfront.net/webflow-logo.svg"
-                  alt="Webflow logo 1"
-                  className="max-h-12"
-                />
-              </div>
+             
             </div>
           </div>
         </div>

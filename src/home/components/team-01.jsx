@@ -32,17 +32,7 @@ export function Team1() {
               Alex drives product strategy, ensuring user needs are met with
               innovative solutions.
             </p>
-            <div className="mt-6 grid grid-flow-col grid-cols-[max-content] gap-3.5 self-center">
-              <a href="#">
-                <LinkedinLogo className="size-6 text-scheme-text" />
-              </a>
-              <a href="#">
-                <XLogo className="size-6 p-0.5 text-scheme-text" />
-              </a>
-              <a href="#">
-                <DribbbleLogo className="size-6 text-scheme-text" />
-              </a>
-            </div>
+            
           </div>
           <div className="flex flex-col text-center">
             <div className="mb-5 flex w-full items-center justify-center md:mb-6">
@@ -60,17 +50,7 @@ export function Team1() {
               Jamie crafts compelling campaigns that resonate with our target
               audience.
             </p>
-            <div className="mt-6 grid grid-flow-col grid-cols-[max-content] gap-3.5 self-center">
-              <a href="#">
-                <LinkedinLogo className="size-6 text-scheme-text" />
-              </a>
-              <a href="#">
-                <XLogo className="size-6 p-0.5 text-scheme-text" />
-              </a>
-              <a href="#">
-                <DribbbleLogo className="size-6 text-scheme-text" />
-              </a>
-            </div>
+            
           </div>
           <div className="flex flex-col text-center">
             <div className="mb-5 flex w-full items-center justify-center md:mb-6">
@@ -88,17 +68,7 @@ export function Team1() {
               Taylor builds robust features that enhance user engagement and
               experience.
             </p>
-            <div className="mt-6 grid grid-flow-col grid-cols-[max-content] gap-3.5 self-center">
-              <a href="#">
-                <LinkedinLogo className="size-6 text-scheme-text" />
-              </a>
-              <a href="#">
-                <XLogo className="size-6 p-0.5 text-scheme-text" />
-              </a>
-              <a href="#">
-                <DribbbleLogo className="size-6 text-scheme-text" />
-              </a>
-            </div>
+            
           </div>
           <div className="flex flex-col text-center">
             <div className="mb-5 flex w-full items-center justify-center md:mb-6">
@@ -116,17 +86,7 @@ export function Team1() {
               Jordan designs intuitive interfaces that delight users and
               simplify navigation.
             </p>
-            <div className="mt-6 grid grid-flow-col grid-cols-[max-content] gap-3.5 self-center">
-              <a href="#">
-                <LinkedinLogo className="size-6 text-scheme-text" />
-              </a>
-              <a href="#">
-                <XLogo className="size-6 p-0.5 text-scheme-text" />
-              </a>
-              <a href="#">
-                <DribbbleLogo className="size-6 text-scheme-text" />
-              </a>
-            </div>
+            
           </div>
           <div className="flex flex-col text-center">
             <div className="mb-5 flex w-full items-center justify-center md:mb-6">
@@ -144,17 +104,7 @@ export function Team1() {
               Morgan analyzes user data to drive insights and improve our
               platform.
             </p>
-            <div className="mt-6 grid grid-flow-col grid-cols-[max-content] gap-3.5 self-center">
-              <a href="#">
-                <LinkedinLogo className="size-6 text-scheme-text" />
-              </a>
-              <a href="#">
-                <XLogo className="size-6 p-0.5 text-scheme-text" />
-              </a>
-              <a href="#">
-                <DribbbleLogo className="size-6 text-scheme-text" />
-              </a>
-            </div>
+            
           </div>
           <div className="flex flex-col text-center">
             <div className="mb-5 flex w-full items-center justify-center md:mb-6">
@@ -172,73 +122,10 @@ export function Team1() {
               Casey ensures our users receive prompt assistance and support
               whenever needed.
             </p>
-            <div className="mt-6 grid grid-flow-col grid-cols-[max-content] gap-3.5 self-center">
-              <a href="#">
-                <LinkedinLogo className="size-6 text-scheme-text" />
-              </a>
-              <a href="#">
-                <XLogo className="size-6 p-0.5 text-scheme-text" />
-              </a>
-              <a href="#">
-                <DribbbleLogo className="size-6 text-scheme-text" />
-              </a>
-            </div>
+            
           </div>
-          <div className="flex flex-col text-center">
-            <div className="mb-5 flex w-full items-center justify-center md:mb-6">
-              <img
-                src="/images/riley-adams.png"
-                alt="Riley Adams - Content Strategist"
-                className="size-20 min-h-20 min-w-20 rounded-full object-cover"
-              />
-            </div>
-            <div className="mb-3 md:mb-4">
-              <h5 className="text-large font-semibold">Riley Adams</h5>
-              <h6 className="text-medium">Content Strategist</h6>
-            </div>
-            <p>
-              Riley develops engaging content that informs and inspires our
-              community.
-            </p>
-            <div className="mt-6 grid grid-flow-col grid-cols-[max-content] gap-3.5 self-center">
-              <a href="#">
-                <LinkedinLogo className="size-6 text-scheme-text" />
-              </a>
-              <a href="#">
-                <XLogo className="size-6 p-0.5 text-scheme-text" />
-              </a>
-              <a href="#">
-                <DribbbleLogo className="size-6 text-scheme-text" />
-              </a>
-            </div>
-          </div>
-          <div className="flex flex-col text-center">
-            <div className="mb-5 flex w-full items-center justify-center md:mb-6">
-              <img
-                src="/images/hiring-placeholder.png"
-                alt="We are hiring - Join our team"
-                className="size-20 min-h-20 min-w-20 rounded-full object-cover"
-              />
-            </div>
-            <div className="mb-3 md:mb-4">
-              <h5 className="text-large font-semibold">We're hiring!</h5>
-              <h6 className="text-medium">Join us</h6>
-            </div>
-            <p>
-              Explore exciting opportunities to be part of our dynamic team.
-            </p>
-            <div className="mt-6 grid grid-flow-col grid-cols-[max-content] gap-3.5 self-center">
-              <a href="#">
-                <LinkedinLogo className="size-6 text-scheme-text" />
-              </a>
-              <a href="#">
-                <XLogo className="size-6 p-0.5 text-scheme-text" />
-              </a>
-              <a href="#">
-                <DribbbleLogo className="size-6 text-scheme-text" />
-              </a>
-            </div>
-          </div>
+          
+          
         </div>
         <div className="mx-auto mt-14 w-full max-w-md text-center md:mt-20 lg:mt-24">
           <h4 className="heading-h4 mb-3 font-bold md:mb-4">We're hiring!</h4>

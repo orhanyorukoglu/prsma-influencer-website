@@ -92,11 +92,7 @@ export function Testimonial16() {
                       </div>
                       <div className="mx-4 w-px self-stretch bg-scheme-border sm:mx-0" />
                       <div>
-                        <img
-                          src="https://d22po4pjz3o32e.cloudfront.net/webflow-logo.svg"
-                          alt="Webflow logo 1"
-                          className="max-h-12"
-                        />
+                        
                       </div>
                     </div>
                   </div>
@@ -140,11 +136,7 @@ export function Testimonial16() {
                       </div>
                       <div className="mx-4 w-px self-stretch bg-scheme-border sm:mx-0" />
                       <div>
-                        <img
-                          src="https://d22po4pjz3o32e.cloudfront.net/webflow-logo.svg"
-                          alt="Webflow logo 1"
-                          className="max-h-12"
-                        />
+                        
                       </div>
                     </div>
                   </div>

@@ -28,7 +28,7 @@ export function Layout252() {
           <div className="w-full">
             <div className="mb-6 md:mb-8">
               <img
-                src="/images/AdobeStock_329548371.jpeg"
+                src="/images/food-selfie.jpeg"
                 alt="Relume placeholder image"
                 className="rounded-image"
               />
@@ -53,7 +53,7 @@ export function Layout252() {
           <div className="w-full">
             <div className="mb-6 md:mb-8">
               <img
-                src="/images/maddi-bazzocco-Vbt1zTCsSNA-unsplash.jpg"
+                src="/images/SM-Shoot.jpeg"
                 alt="Instagram feed on mobile phone showing social media content"
                 className="rounded-image"
               />
@@ -78,14 +78,13 @@ export function Layout252() {
           <div className="w-full">
             <div className="mb-6 md:mb-8">
               <img
-                src="/images/dylan-sauerwein-EchkThAzpbU-unsplash.jpg"
+                src="/images/makeup.jpeg"
                 alt="Creative influencer in purple neon lighting environment"
                 className="rounded-image"
               />
             </div>
             <h3 className="heading-h5 mb-3 font-bold md:mb-4">
-              Streamline Your Collaboration with Influencer Partnership
-              Management Features
+              Streamline Your Collaboration and Partnerships
             </h3>
             <p>
               Easily manage and track your collaborations for maximum impact.

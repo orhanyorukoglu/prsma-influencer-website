@@ -25,7 +25,7 @@ export function Cta1() {
           </div>
           <div>
             <img
-              src="/images/Social_media-SM1.jpg"
+              src="/images/Video-Shoot.jpeg"
               className="w-full rounded-image object-cover"
               alt="Relume placeholder image"
             />
